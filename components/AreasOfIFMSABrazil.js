@@ -1,4 +1,4 @@
-
+"use client"
 // components/AreasOfIFMSABrazil.jsx
 import React from 'react';
 import styled from 'styled-components';

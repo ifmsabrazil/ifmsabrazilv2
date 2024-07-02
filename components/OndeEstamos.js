@@ -19,6 +19,7 @@ const Title = styled.h2`
   color: #333;
   text-align: center;
   margin-bottom: 20px;
+  font-weight: 700;
 `;
 
 const StatsRow = styled.div`
