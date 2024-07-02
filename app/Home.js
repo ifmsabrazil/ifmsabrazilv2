@@ -17,7 +17,7 @@ const HomeContainer = styled.div`
 const HeroSection = styled.div`
   width: 100%;
   height: 100vh;
-  background-image: url('/background-image.png'); // Use absolute path from public folder
+  background-image: url('https://cdn.jsdelivr.net/gh/ifmsabrazil/ifmsabrazilv2/public/background-image.png'); // Use absolute path from public folder
   background-size: cover;
   background-position: center;
   display: flex;
